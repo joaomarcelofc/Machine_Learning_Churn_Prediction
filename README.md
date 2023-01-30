@@ -14,6 +14,6 @@ Nosso objetivo é ajudar empresas a entender o comportamento de seus clientes e 
 
 Analisar e compreender grandes quantidades de dados de clientes pode ser complexo, porém o Machine Learning oferece suporte para empresas em sua jornada em desvendar o perfil dos seus clientes e prever o risco de churn antes que seja tarde demais. Neste projeto iremos analisar dados de churn de uma empresa de telecomunições e criar modelos de machine learning para classificar possíveis clientes que possam cancelar seus planos, comparando as métricas e buscando as melhores soluções!
 
-O projeto pode ser conferido [neste link](https://github.com/joaomarcelofc/Machine_Learning_Churn_Prediction/blob/main/Projeto_Churn_Prediction_Empresa_Telecomunicacoes_JM.ipynb)!
+**O projeto pode ser conferido [neste link](https://github.com/joaomarcelofc/Machine_Learning_Churn_Prediction/blob/main/Projeto_Churn_Prediction_Empresa_Telecomunicacoes_JM.ipynb)!**
 
 Não custa lembrar que sugestões são sempre bem-vindas! Boa leitura e bons estudos!
